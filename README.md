@@ -50,4 +50,5 @@ hideturtle()
 tracer(False)
 grid()
 onscreenclick(tap)
+done()
 
